@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.backup
+*.exe
+*.dll
+*.bak
+*.backup
+*.lock
+*.cache
+*.swp
