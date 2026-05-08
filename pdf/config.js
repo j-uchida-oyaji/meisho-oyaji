@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"gorock_i@yahoo.co.jp","subject":"","keywords":"","creator":"Microsoft® Word 2016","producer":"Microsoft® Word 2016","creationdate":"D:20240511202219+09'00'","moddate":"D:20240511202219+09'00'","trapped":"","fileName":"令和６年度会員募集.pdf","bounds":[[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
